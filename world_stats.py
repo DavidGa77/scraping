@@ -2,7 +2,6 @@
 import urllib2
 from bs4 import BeautifulSoup
 import sys
-import re
 
 # specify the url
 pop_page = 'https://www.cia.gov/library/publications/the-world-factbook/rankorder/2119rank.html'
